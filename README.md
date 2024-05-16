@@ -1,4 +1,4 @@
-# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
+# Ex. 4  - REVERSE ENGINEER THE GIVEN PRODUCT
 
 ### DATE: 
 
@@ -31,12 +31,14 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![empd exp 4 ip](https://github.com/Gowtham-jk/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/149857834/1e60d81b-e883-4373-ad10-23bdb0e8c0a8)
 
 ### Output:
+![empd exp 4 op](https://github.com/Gowtham-jk/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/149857834/dd7b7d65-5c5d-4fdf-a1d9-e18dc043edae)
 
 
-### Name:
-### Register Number:
+### Name:Gowtham.V
+### Register Number:212223100009
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
